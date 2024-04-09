@@ -39,6 +39,9 @@ print("Accuracy:", accuracy)
 print("Confusion Matrix:\n", conf_matrix)
 print("Classification Report:\n", classification_rep)
 
+print("GO PACKERS HHHHHHHHHHHHHHHHHHHHHAAAAAAAAAAAAAAAAAAAAAAHAHAHAHAHA")
+
+
 # Step 8: Interpretation
 # Discuss the predictive power of the model and any insights gained from the analysis
 
